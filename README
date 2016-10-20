@@ -1,0 +1,8 @@
+To run: 
+
+Pull from repository.
+cd into the root directory of the project.
+run the command 'npm install'
+run the command 'node app.js'
+
+It should now be ready to accept post and get requests.

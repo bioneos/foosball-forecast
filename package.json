@@ -1,0 +1,23 @@
+{
+  "name": "fooscast",
+  "version": "0.0.1",
+  "description": "Returns times that the foosball table is open from 2nd floor meeting room.",
+  "main": "app.js",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "malyon",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cool-ascii-faces": "1.3.4",
+    "express": "^4.14.0",
+    "humanize-duration": "^3.9.1",
+    "moment": "^2.15.1",
+    "moment-timezone": "^0.5.5",
+    "request": "^2.74.0"
+  }
+}
